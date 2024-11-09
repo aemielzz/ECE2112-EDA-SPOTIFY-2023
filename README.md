@@ -73,9 +73,11 @@ Here, we should plot the number of tracks released per month and we used the sam
 We can see that in the graph the song with 110 to 120 bpm has the highest streams. the song with 70 danceability has the highest streams, the songs with 50 to 55 valence has the highest streams, the song with 50 to 80 energy has the highest as well. the graph in acousticness has downtrend, the liveness has its peak at 10 and the speechiness has its peak at 5.
 
 #### Is there a correlation between danceability_% and energy_%? How about valence_% and acousticness_%?
-![image](https://github.com/user-attachments/assets/a4990d18-4fe1-45fe-b5d3-16ea4f6d7b88)
+![image](https://github.com/user-attachments/assets/6f39b214-c53a-45d8-93ea-37327a1b02f2)
 ![image](https://github.com/user-attachments/assets/40b5f0f8-1a5c-4a1d-9efb-7635853c6214)
 
+We used histogram and scatterplot to display the data in correlation between danceability and energy and valence and acousticness. 
+I named the code correlation to declare it to print and display. we used the data spoti to look for the correlation between the four. The graph says that the higher the danceability of the track, the more energy it requires. On the other hand, the lower the acousticness the higher the valence. 
 
 ## Platform Popularity
 
